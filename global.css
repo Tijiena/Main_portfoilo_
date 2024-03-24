@@ -352,7 +352,9 @@ main{
     }
 
     #gamepage{
-    color:rgb(14, 179, 179);
+    color:rgb(50, 171, 227);
+    margin-top:1em;
+    margin-left:3.5em;
     text-transform: uppercase;
     margin-bottom:2em;
     text-decoration: none;
