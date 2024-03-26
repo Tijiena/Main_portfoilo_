@@ -202,7 +202,7 @@ main{
     margin:3em;
     }
     .image:hover{
-        opacity: 0.5;
+        opacity: 0.7;
     }
     .two_image{
     display: grid;
