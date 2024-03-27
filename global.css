@@ -187,6 +187,11 @@ main{
     .center{
     width: 100%;
     }
+    .quarter{
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    }
     video{
     display: block;
     margin: 0 auto;
