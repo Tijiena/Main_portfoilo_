@@ -147,6 +147,7 @@ main{
     border-radius: 10px;
     margin-top: 2em;
     }
+    
     main p{
     margin:auto;
     width:90%;
@@ -155,6 +156,7 @@ main{
     main h3{
     width:90%;
     font-size:16px;
+    margin:auto;
     }
     main img{
     border-radius: 10px;
@@ -360,11 +362,11 @@ main{
     #gamepage{
     color:rgb(50, 171, 227);
     margin-top:1em;
-    margin-left:3.5em;
+    margin-left:4em;
     text-transform: uppercase;
     margin-bottom:2em;
     text-decoration: none;
-    font-size:20px;
+    font-size:17px;
     }
 
 footer{
