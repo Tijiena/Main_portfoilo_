@@ -265,7 +265,7 @@ main{
         border-radius: 0.5rem;
     }
     .slider img{
-        flex:1 0 60%;
+        flex:1 0 50%;
         scroll-snap-align:start;
         object-fit:contain;
     }
@@ -277,9 +277,8 @@ main{
     .slider-nav{
         display:flex;
         column-gap:1rem;
-        position: absolute;
-        left:70em;
-        bottom:1em;
+        margin-left: 37em;
+        margin-top: 3em;
         z-index:1 ;
     }
     .slider-nav a{
